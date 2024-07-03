@@ -1,4 +1,4 @@
-# Free Pentest Testing
+# Free Website Vulnerability Scanner
 
 ## Overview
 
@@ -13,7 +13,7 @@ Welcome to Free Pentest Testing! Our mission is to provide a comprehensive and a
 
 ## Getting Started
 
-1. **Visit Our Website:** Head over to [Free Pentest Testing](https://free.pentesttesting.com/).
+1. **Visit Our Website:** Head over to [Free Free Website Vulnerability Scanner](https://free.pentesttesting.com/).
 2. **Enter Your URL:** Input your website’s URL in the provided field.
 3. **Run the Scan:** Click the scan button and let our tool analyze your website.
 4. **Review the Report:** Once the scan is complete, review the detailed report to understand any vulnerabilities and how to address them.
@@ -26,7 +26,7 @@ Welcome to Free Pentest Testing! Our mission is to provide a comprehensive and a
 
 ## Visit Us
 
-For more information and to get started with your free website security scan, visit [Free Pentest Testing](https://free.pentesttesting.com/).
+For more information and to get started with your free website security scan, visit [free website security scan](https://free.pentesttesting.com/).
 
 ## License
 
